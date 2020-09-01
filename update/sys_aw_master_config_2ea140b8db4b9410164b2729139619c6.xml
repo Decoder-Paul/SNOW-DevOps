@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="SNOW DevOps">2ea140b8db4b9410164b2729139619c7</compiled_page_registry>
+        <description/>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="SNOW DevOps Search Context Config">6aa140b8db4b9410164b2729139619c4</global_search_data>
+        <name>SNOW DevOps</name>
+        <navigation_type>breadcrumb</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>pauls4</sys_created_by>
+        <sys_created_on>2020-09-01 18:20:41</sys_created_on>
+        <sys_id>2ea140b8db4b9410164b2729139619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNOW DevOps</sys_name>
+        <sys_package display_value="SNOW DevOps" source="x_tni_devops">16d53be4db0b9410164b2729139619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW DevOps">16d53be4db0b9410164b2729139619a1</sys_scope>
+        <sys_update_name>sys_aw_master_config_2ea140b8db4b9410164b2729139619c6</sys_update_name>
+        <sys_updated_by>pauls4</sys_updated_by>
+        <sys_updated_on>2020-09-01 18:20:41</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_url>snow_devops</workspace_url>
+    </sys_aw_master_config>
+</record_update>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Lists Module Content">36a144f8db4b9410164b27291396199e</content>
+        <content_attrs/>
+        <content_component display_value="sn-component-workspace-list-module">19622d2bff222300294153bd6338f1ef</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>list-outline</icon>
+        <id>list</id>
+        <label>Lists</label>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>pauls4</sys_created_by>
+        <sys_created_on>2020-09-01 18:20:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>faa144f8db4b9410164b272913961996</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>list</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNOW DevOps" source="x_tni_devops">16d53be4db0b9410164b2729139619a1</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="SNOW DevOps">16d53be4db0b9410164b2729139619a1</sys_scope>
+        <sys_update_name>sys_aw_module_faa144f8db4b9410164b272913961996</sys_update_name>
+        <sys_updated_by>pauls4</sys_updated_by>
+        <sys_updated_on>2020-09-01 18:20:42</sys_updated_on>
+        <toolbar_button display_value="Lists Button">fea144f8db4b9410164b272913961996</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="SNOW DevOps">2ea140b8db4b9410164b2729139619c6</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=faa144f8db4b9410164b272913961996"/>
+</record_update>

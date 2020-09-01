@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_tni_devops.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_tni_devops.admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>pauls4</sys_created_by>
+        <sys_created_on>2020-09-01 17:30:30</sys_created_on>
+        <sys_id>eb26fb68db0b9410164b2729139619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_tni_devops.admin</sys_name>
+        <sys_package display_value="SNOW DevOps" source="x_tni_devops">16d53be4db0b9410164b2729139619a1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SNOW DevOps">16d53be4db0b9410164b2729139619a1</sys_scope>
+        <sys_update_name>sys_user_role_eb26fb68db0b9410164b2729139619e6</sys_update_name>
+        <sys_updated_by>pauls4</sys_updated_by>
+        <sys_updated_on>2020-09-01 17:30:30</sys_updated_on>
+    </sys_user_role>
+</record_update>
